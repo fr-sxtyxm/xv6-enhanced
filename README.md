@@ -2,16 +2,22 @@
 Developed system calls for MIT's Unix like operating System Xv6.
 
 Currently added system calls : 
-1. system call named getppid() and a command named "prsd" which can display process-id along with parent process-id using the help of getpid()
-2. system call named sps(system processes), command named ps that can display the : PID {Process ID}, PPID, Process name {Parent Process ID}, process state.
+1. system call : getppid()
+   command     : prsd
+   Function    : displays process-id along with parent process-id.
+   
+2. system call : sps
+   command     : ps 
+   Function    : displays - PID {Process ID}, PPID{Parent Process ID}, Process name, process state.
 
 PS : Will be adding more advanced system call in future.
  
 How to run ? 
 
-1. Download the Code of this repository
+1. Download the code of this repository
 2. Unzip the downloaded file and open in Linux terminal
 3. Run the following commands to setup Emulator :
+
 For Linux booted system :
 ```
 sudo apt update
