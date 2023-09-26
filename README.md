@@ -7,5 +7,25 @@ Currently added system calls :
 
 PS : Will be adding more advanced system call in future.
  
+How to run ? 
 
+1. Download the Code of this repository
+2. Unzip the downloaded file and open in Linux terminal
+3. Run the following commands to setup Emulator :
+For Linux booted system :
+```
+sudo apt update
+sudo apt install qemu
+sudo apt install qemu-system-x86
+make clean
+make qemu
+```
+For WSL users :  
+```
+sudo apt update
+sudo apt install qemu
+sudo apt install qemu-system-x86
+make clean
+make qemu-nox 
+```
 
