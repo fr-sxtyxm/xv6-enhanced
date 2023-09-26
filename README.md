@@ -18,7 +18,7 @@ How to run ?
 2. Unzip the downloaded file and open in Linux terminal
 3. Run the following commands to setup Emulator :
 
-a. For Linux booted system :
+ For Linux booted system :
 ```
 sudo apt update
 sudo apt install qemu
@@ -26,7 +26,7 @@ sudo apt install qemu-system-x86
 make clean
 make qemu
 ```
-b. For WSL users :  
+ For WSL users :  
 ```
 sudo apt update
 sudo apt install qemu
