@@ -25,6 +25,18 @@ make
 make clean
 make qemu
 ```
+
+Images : <br>
+intital interface : <br>
+![1](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/330a796c-93ae-42f9-b9fa-ffd104720bb4) <br>
+
+type command "ls" to list all the available commands : <br> 
+![2](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/d18d997c-8539-4c2e-a83a-ecfb888d8bb3) <br>
+
+type prsd : <br>
+![3](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/51b97bd1-58f8-44db-8cdc-18e7a4c86e88)
+
+
  For WSL users :  
 ```
 sudo apt update
