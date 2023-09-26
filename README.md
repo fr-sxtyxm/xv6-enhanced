@@ -8,10 +8,7 @@ Currently added system calls :
    
 3. command&emsp;&nbsp;     :&nbsp; ps <br>
    system call&emsp; :&nbsp; sps() <br>
-   Function&emsp;&emsp;    :&nbsp; displays - PID (Process ID), PPID (Parent Process ID), Process name, process state.
-
-PS :<br> 
-Will be adding more advanced system calls in future.
+   Function&emsp;&emsp;    :&nbsp; displays - PID (Process ID), PPID (Parent Process ID), Process name, process state.<br>
  
 How to run ? 
 
