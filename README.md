@@ -23,6 +23,7 @@ How to run ?
 sudo apt update
 sudo apt install qemu
 sudo apt install qemu-system-x86
+make
 make clean
 make qemu
 ```
@@ -31,6 +32,7 @@ make qemu
 sudo apt update
 sudo apt install qemu
 sudo apt install qemu-system-x86
+make
 make clean
 make qemu-nox 
 ```
