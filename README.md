@@ -27,8 +27,8 @@ make qemu
 ```
 
 Images : <br>
-intital interface : <br>
-<img src="C:\Users\KIIT\Downloads\xv666\New folder\1.png" alt="Image Description" width="800" height="800"> <br>
+Default Interface of XV6 : <br>
+![1](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/64909ef8-c4a3-45cc-a381-04d64104e005) <br>
 
 type command "ls" to list all the available commands : <br> 
 ![2](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/d18d997c-8539-4c2e-a83a-ecfb888d8bb3) <br>
