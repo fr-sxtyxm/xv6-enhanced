@@ -1,17 +1,17 @@
 # xv6-enhanced
-Developed system calls for MIT's Unix like operating System Xv6.
+Developed system calls for MIT's UNIX like Operating System Xv6.
 
 Currently added system calls : 
-1. system call : getppid()<br>
-   command     : prsd <br>
+1. command     : prsd <br>
+   system call : getppid()<br>
    Function    : displays process-id along with parent process-id.
    
-2.
-system call : sps
-command     : ps 
-Function    : displays - PID {Process ID}, PPID{Parent Process ID}, Process name, process state.
+3. command     : ps <br>
+   system call : sps() <br>
+   Function    : displays - PID (Process ID), PPID (Parent Process ID), Process name, process state.
 
-PS : Will be adding more advanced system calls in future.
+PS :<br> 
+Will be adding more advanced system calls in future.
  
 How to run ? 
 
