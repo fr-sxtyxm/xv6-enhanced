@@ -28,13 +28,14 @@ make qemu
 
 Images : <br>
 Default Interface of XV6 : <br>
-![1](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/64909ef8-c4a3-45cc-a381-04d64104e005) <br>
+![1](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/89a1cf7a-65d0-4157-9e7b-893447d6ab5c) <br>
 
 type command "ls" to list all the available commands : <br> 
-![2](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/d18d997c-8539-4c2e-a83a-ecfb888d8bb3) <br>
+![2](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/4ece77a9-90bb-4fa3-a577-b2a33a0f0246) <br>
 
 type prsd : <br>
-![3](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/51b97bd1-58f8-44db-8cdc-18e7a4c86e88)
+![3](https://github.com/fr-sxtyxm/xv6-enhanced/assets/142148094/e65da65d-be7f-4b51-b3f2-3461e270791e)
+
 
 
  For WSL users :  
